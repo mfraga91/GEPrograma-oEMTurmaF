@@ -1,2 +1,2 @@
 # GEProgramacaoEMTurmaF
-## Professor Cursista _Maycon Fraga_
+## Profº. Cursista _Maycon Fraga_
